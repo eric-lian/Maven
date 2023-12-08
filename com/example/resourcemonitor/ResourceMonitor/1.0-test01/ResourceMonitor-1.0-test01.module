@@ -3,7 +3,7 @@
   "component": {
     "group": "com.example.resourcemonitor",
     "module": "ResourceMonitor",
-    "version": "1.0",
+    "version": "1.0-test01",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -36,13 +36,13 @@
       ],
       "files": [
         {
-          "name": "ResourceMonitor-1.0.jar",
-          "url": "ResourceMonitor-1.0.jar",
-          "size": 100667,
-          "sha512": "229f36f09fd0794f1d355d317f09eb723df9eaa360d379c3b0525ae034b58c69fd6d0a65c436d63e73a09b648ee25bc7a2dadc4146b7d2722c295b0597e8ff2c",
-          "sha256": "c88da7991385442c44d608e351019c04d2b1b0e6a9aac6ee14c4ba07c09ae6aa",
-          "sha1": "f8378c90c5d6cfa615fba1930a790b0e0d41e838",
-          "md5": "c600a4ecba159014f640b0fd85e79bc8"
+          "name": "ResourceMonitor-1.0-test01.jar",
+          "url": "ResourceMonitor-1.0-test01.jar",
+          "size": 101387,
+          "sha512": "162e45865959e8b3a2585ccf5e6495a61b8f91e61c9e4fce8107295a11c92bd3f287a232038e1b3b5080a217ff7679f575402ac33dfbe7b5c56da331b5e98fff",
+          "sha256": "15fffb294322e8aaf1b5e4641058b5ab6d3ad5af6b608ab23b96195b10593a41",
+          "sha1": "00e12be288393e429d748e1f801aa0ef29901f25",
+          "md5": "66a0a2c44f6ffd31ff6b94b90a634fb9"
         }
       ]
     },
@@ -96,13 +96,13 @@
       ],
       "files": [
         {
-          "name": "ResourceMonitor-1.0.jar",
-          "url": "ResourceMonitor-1.0.jar",
-          "size": 100667,
-          "sha512": "229f36f09fd0794f1d355d317f09eb723df9eaa360d379c3b0525ae034b58c69fd6d0a65c436d63e73a09b648ee25bc7a2dadc4146b7d2722c295b0597e8ff2c",
-          "sha256": "c88da7991385442c44d608e351019c04d2b1b0e6a9aac6ee14c4ba07c09ae6aa",
-          "sha1": "f8378c90c5d6cfa615fba1930a790b0e0d41e838",
-          "md5": "c600a4ecba159014f640b0fd85e79bc8"
+          "name": "ResourceMonitor-1.0-test01.jar",
+          "url": "ResourceMonitor-1.0-test01.jar",
+          "size": 101387,
+          "sha512": "162e45865959e8b3a2585ccf5e6495a61b8f91e61c9e4fce8107295a11c92bd3f287a232038e1b3b5080a217ff7679f575402ac33dfbe7b5c56da331b5e98fff",
+          "sha256": "15fffb294322e8aaf1b5e4641058b5ab6d3ad5af6b608ab23b96195b10593a41",
+          "sha1": "00e12be288393e429d748e1f801aa0ef29901f25",
+          "md5": "66a0a2c44f6ffd31ff6b94b90a634fb9"
         }
       ]
     },
@@ -116,13 +116,13 @@
       },
       "files": [
         {
-          "name": "ResourceMonitor-1.0-javadoc.jar",
-          "url": "ResourceMonitor-1.0-javadoc.jar",
-          "size": 254009,
-          "sha512": "e642f1a7f0ae53daa68681c4ece1e6e928a892c818fce086a8a1d88956fd400cc6fa8049eaf39868b845eebb30631494281b11888f320f66176fd755b14b59e3",
-          "sha256": "477e7a02c7223d65c2aba38fd719bba15feeb4e4eaac416d72ae461b930fe043",
-          "sha1": "891f9bb14ebf2a4a23140e65a9d3d19a925da672",
-          "md5": "f39ad281fb29ea6930bcdacdc0b0242e"
+          "name": "ResourceMonitor-1.0-test01-javadoc.jar",
+          "url": "ResourceMonitor-1.0-test01-javadoc.jar",
+          "size": 254305,
+          "sha512": "a07688061fb307fa82c4b1d77b40f13695028e4b2662e48fadc72a69e54704940158b434fcca203388b55bf089cb6f53fcab1b6a4a56c3a782f1ed50baadf41a",
+          "sha256": "003396a5b87ad09f4ca96507cbf8e090c3980a1d5eec4067d4b2fbbce40828e6",
+          "sha1": "bc9f0c59bb0c231ff8b184f90469378286853ea2",
+          "md5": "b8e9855461bb091e97fd4925ea1988ba"
         }
       ]
     },
@@ -136,13 +136,13 @@
       },
       "files": [
         {
-          "name": "ResourceMonitor-1.0-sources.jar",
-          "url": "ResourceMonitor-1.0-sources.jar",
-          "size": 55953,
-          "sha512": "70886a80dea1c2bcd57e52e81066661d9e78e33f79ab62aaa79914af44d6a633dc738468f7d4448dfd99e16db3df7411d2499682ee84b6cbfffd0a5fe81237b0",
-          "sha256": "7ee1e876536c78dd8b83a2f7170d96738ca159a9aba41e4c00672f4a96ff1cc7",
-          "sha1": "415796a56e8aa5b9c7df84a1f942e6712341291e",
-          "md5": "6ac96873e4d449a747bb3bc96b48ab1b"
+          "name": "ResourceMonitor-1.0-test01-sources.jar",
+          "url": "ResourceMonitor-1.0-test01-sources.jar",
+          "size": 56080,
+          "sha512": "9097b09dcb2648fb619c0861bcf97566a39c4b46dca0b0f05ebde3cce417870897530bc8332ebf2ca64d96a2c4c99326bab3e795e4faa9f57fa503f89827217f",
+          "sha256": "a06dd14abb0765dc774517e6cc5d4197c333d96265a79a784c1d513df0e1b2f7",
+          "sha1": "fca2ca500dbc2669c6775a73c63d011b69d0beeb",
+          "md5": "1fec7abb67ee5c44b7ae70bbb2cc18ee"
         }
       ]
     }
