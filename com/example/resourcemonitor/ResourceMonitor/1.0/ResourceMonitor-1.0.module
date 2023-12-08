@@ -1,0 +1,150 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.example.resourcemonitor",
+    "module": "ResourceMonitor",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ResourceMonitor-1.0.jar",
+          "url": "ResourceMonitor-1.0.jar",
+          "size": 96214,
+          "sha512": "deea046524e222b48d7232f551a3b2c955f0843978a6a396fbc1420d7cff3bd2e17185ea7560a1efaca4fd67b38823fc6101571f1407db0dcfc271ce5cfe99e6",
+          "sha256": "b5865f42ef28e4a4e4bcef964382d83d08bbcdc927a540c6cb18b7e608b7c270",
+          "sha1": "fa924b8304b82b93b977ebf870313c17f127436a",
+          "md5": "e2a22028feb6b750f525cc7d53503aeb"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.9"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "18.0"
+          }
+        },
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.1"
+          }
+        },
+        {
+          "group": "javax.annotation",
+          "module": "javax.annotation-api",
+          "version": {
+            "requires": "1.3.2"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ResourceMonitor-1.0.jar",
+          "url": "ResourceMonitor-1.0.jar",
+          "size": 96214,
+          "sha512": "deea046524e222b48d7232f551a3b2c955f0843978a6a396fbc1420d7cff3bd2e17185ea7560a1efaca4fd67b38823fc6101571f1407db0dcfc271ce5cfe99e6",
+          "sha256": "b5865f42ef28e4a4e4bcef964382d83d08bbcdc927a540c6cb18b7e608b7c270",
+          "sha1": "fa924b8304b82b93b977ebf870313c17f127436a",
+          "md5": "e2a22028feb6b750f525cc7d53503aeb"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ResourceMonitor-1.0-javadoc.jar",
+          "url": "ResourceMonitor-1.0-javadoc.jar",
+          "size": 253982,
+          "sha512": "e7e799984f0f63d429a6b14b4ff342a38e99f366d76a5c30ded40abf22994481464ea4d34156e7c06d9d52a9b7c3be3610fadc74326012efcd9289c8cf479a77",
+          "sha256": "9c3fe2f3f3fa84bb102bb074d442c7fe481d366009870d53524e830000769f29",
+          "sha1": "eac9750a0a02feb38b0cef37b5ca577c2e624b6a",
+          "md5": "bece8c046ee688072d31d1562bc882f5"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ResourceMonitor-1.0-sources.jar",
+          "url": "ResourceMonitor-1.0-sources.jar",
+          "size": 55912,
+          "sha512": "0423d1b36b91b83d932bffb30eef85c08a0ac99ed7e1971f5d6b3f725c614cdb0b19cfbdc0b3d10b86bc5192414242c61209e627c5b95bd8c05707c2594525ac",
+          "sha256": "aeea5039f23ee12e44be979e273cb6b87e116e0d680e351dfc983d620d8a20fc",
+          "sha1": "d295e504974d1ba068fae528129245b0211a339a",
+          "md5": "954027421efd37a649ca0f662b2636e4"
+        }
+      ]
+    }
+  ]
+}
