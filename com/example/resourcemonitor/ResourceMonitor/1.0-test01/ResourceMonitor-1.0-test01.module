@@ -38,11 +38,11 @@
         {
           "name": "ResourceMonitor-1.0-test01.jar",
           "url": "ResourceMonitor-1.0-test01.jar",
-          "size": 101387,
-          "sha512": "162e45865959e8b3a2585ccf5e6495a61b8f91e61c9e4fce8107295a11c92bd3f287a232038e1b3b5080a217ff7679f575402ac33dfbe7b5c56da331b5e98fff",
-          "sha256": "15fffb294322e8aaf1b5e4641058b5ab6d3ad5af6b608ab23b96195b10593a41",
-          "sha1": "00e12be288393e429d748e1f801aa0ef29901f25",
-          "md5": "66a0a2c44f6ffd31ff6b94b90a634fb9"
+          "size": 101558,
+          "sha512": "d2221c59c313fd15cc78b0f57ee92c568af07375a23b95f84466edb23bbf8fac94aff89042a978ee77b8fe1b255817f31f94012c2391d96ed5551ad0b21ce1ae",
+          "sha256": "b774b6135898b636d15372df71bcaefbd516a87448364d0ca42c5d323fc4c160",
+          "sha1": "755592a3e0b52c594fdf85ddd982cec4830cc4f0",
+          "md5": "48fe985d6549c87cd9e05250fb80b846"
         }
       ]
     },
@@ -98,11 +98,11 @@
         {
           "name": "ResourceMonitor-1.0-test01.jar",
           "url": "ResourceMonitor-1.0-test01.jar",
-          "size": 101387,
-          "sha512": "162e45865959e8b3a2585ccf5e6495a61b8f91e61c9e4fce8107295a11c92bd3f287a232038e1b3b5080a217ff7679f575402ac33dfbe7b5c56da331b5e98fff",
-          "sha256": "15fffb294322e8aaf1b5e4641058b5ab6d3ad5af6b608ab23b96195b10593a41",
-          "sha1": "00e12be288393e429d748e1f801aa0ef29901f25",
-          "md5": "66a0a2c44f6ffd31ff6b94b90a634fb9"
+          "size": 101558,
+          "sha512": "d2221c59c313fd15cc78b0f57ee92c568af07375a23b95f84466edb23bbf8fac94aff89042a978ee77b8fe1b255817f31f94012c2391d96ed5551ad0b21ce1ae",
+          "sha256": "b774b6135898b636d15372df71bcaefbd516a87448364d0ca42c5d323fc4c160",
+          "sha1": "755592a3e0b52c594fdf85ddd982cec4830cc4f0",
+          "md5": "48fe985d6549c87cd9e05250fb80b846"
         }
       ]
     },
@@ -119,10 +119,10 @@
           "name": "ResourceMonitor-1.0-test01-javadoc.jar",
           "url": "ResourceMonitor-1.0-test01-javadoc.jar",
           "size": 254305,
-          "sha512": "a07688061fb307fa82c4b1d77b40f13695028e4b2662e48fadc72a69e54704940158b434fcca203388b55bf089cb6f53fcab1b6a4a56c3a782f1ed50baadf41a",
-          "sha256": "003396a5b87ad09f4ca96507cbf8e090c3980a1d5eec4067d4b2fbbce40828e6",
-          "sha1": "bc9f0c59bb0c231ff8b184f90469378286853ea2",
-          "md5": "b8e9855461bb091e97fd4925ea1988ba"
+          "sha512": "04dbd739d74c5c94ecce470bea8712b5a2c24393a6d62f12fcb6481ad24a03738239939d7241ca48df46b8594570ea581d192ccf4c01c9e7948b6d88c1bf8595",
+          "sha256": "665831df07ea28e4e2309fd7a3c7082b8b0bb04b81880b70c93981478111beb0",
+          "sha1": "ee81bbcaf7b75c4fe9a4f475ed5e543e1118b357",
+          "md5": "f4ae7b5b1085723501ecc8af1683559a"
         }
       ]
     },
@@ -138,11 +138,11 @@
         {
           "name": "ResourceMonitor-1.0-test01-sources.jar",
           "url": "ResourceMonitor-1.0-test01-sources.jar",
-          "size": 56080,
-          "sha512": "9097b09dcb2648fb619c0861bcf97566a39c4b46dca0b0f05ebde3cce417870897530bc8332ebf2ca64d96a2c4c99326bab3e795e4faa9f57fa503f89827217f",
-          "sha256": "a06dd14abb0765dc774517e6cc5d4197c333d96265a79a784c1d513df0e1b2f7",
-          "sha1": "fca2ca500dbc2669c6775a73c63d011b69d0beeb",
-          "md5": "1fec7abb67ee5c44b7ae70bbb2cc18ee"
+          "size": 56177,
+          "sha512": "23565a767e47a04d953d6bb843c3102a22229a976eeb76e1aec692344439def229d1cf61ef698156fc2e1fac30f78d9a6156a8eceb3ebf7c7e0f12ec1cdab95c",
+          "sha256": "814b7b5aaba94d8a24cdde9824860a1a3c53a48fd0862561479c1af84f6bfc05",
+          "sha1": "a0f83450e3bab72e0dd931af509cd8e82e6aea81",
+          "md5": "0f80bf0d147219bba5a843be5e792af5"
         }
       ]
     }
