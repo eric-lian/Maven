@@ -1,0 +1,150 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.resourcesopt.plugin",
+    "module": "ResourcesOpt",
+    "version": "1.0-test08",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ResourcesOpt-1.0-test08.jar",
+          "url": "ResourcesOpt-1.0-test08.jar",
+          "size": 106759,
+          "sha512": "f8145a1b0eb6d2279756fe8a5a9aaa4be9bc325622d4e64f21264c48c7fbe70ac273136a7c722135effd557ba5c2f7aee71f40764086f44004900d0de7f25adb",
+          "sha256": "7368c0e002007c3c82df7c624236924485361569f7845af0d8874b0abc7488ef",
+          "sha1": "6d76082b926ee8056694c3d2af5e63730be30603",
+          "md5": "2a141ee1c1882954a96713a112ded67b"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.9"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "18.0"
+          }
+        },
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.1"
+          }
+        },
+        {
+          "group": "javax.annotation",
+          "module": "javax.annotation-api",
+          "version": {
+            "requires": "1.3.2"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.9.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ResourcesOpt-1.0-test08.jar",
+          "url": "ResourcesOpt-1.0-test08.jar",
+          "size": 106759,
+          "sha512": "f8145a1b0eb6d2279756fe8a5a9aaa4be9bc325622d4e64f21264c48c7fbe70ac273136a7c722135effd557ba5c2f7aee71f40764086f44004900d0de7f25adb",
+          "sha256": "7368c0e002007c3c82df7c624236924485361569f7845af0d8874b0abc7488ef",
+          "sha1": "6d76082b926ee8056694c3d2af5e63730be30603",
+          "md5": "2a141ee1c1882954a96713a112ded67b"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ResourcesOpt-1.0-test08-javadoc.jar",
+          "url": "ResourcesOpt-1.0-test08-javadoc.jar",
+          "size": 254174,
+          "sha512": "d29cc37cd5ece32eb15195a283a22925a30d95413fb543537f48d091c81863196b320e723ad8bf5354bbb18ded879e41f1745783514fc1cfd90f4682742744f1",
+          "sha256": "6141fa8475ac4f775d7805832b92970cb7729f7a43cc8da0b8b6a82b970ca478",
+          "sha1": "022dacc60e5ae1a16609e8d5f436fcebd685beb7",
+          "md5": "f6996ab23d7fe38e30f8d8372cad3fc8"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "ResourcesOpt-1.0-test08-sources.jar",
+          "url": "ResourcesOpt-1.0-test08-sources.jar",
+          "size": 58223,
+          "sha512": "26750094d304fa45b7802da714ce71f70247d1ee4b993e904fd2626c062dc1614f5c43154453f2173eb2069a04de79f753949ddbb35cf553c97e23a0ea1dba9b",
+          "sha256": "5dc6fa4601216babb81567c0281072822163dda7a14cd56e644941d6ae1733c1",
+          "sha1": "9ac036dcb24b7857e65e04a80f5c9943e0a4e500",
+          "md5": "99b918a80380ef7c0df0e7c73f933328"
+        }
+      ]
+    }
+  ]
+}
