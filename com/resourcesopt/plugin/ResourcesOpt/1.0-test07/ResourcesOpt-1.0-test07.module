@@ -3,7 +3,7 @@
   "component": {
     "group": "com.resourcesopt.plugin",
     "module": "ResourcesOpt",
-    "version": "1.0-test06",
+    "version": "1.0-test07",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -36,13 +36,13 @@
       ],
       "files": [
         {
-          "name": "ResourcesOpt-1.0-test06.jar",
-          "url": "ResourcesOpt-1.0-test06.jar",
-          "size": 106863,
-          "sha512": "b1526de90c3ec23609be60ddcdeb6ad265b3a2a658d6d7cf3ce00085749c0cf3ece66229f6c512ab8a6b012ed2be86dafac979be3aed46c0ae2ca49e2f2a7138",
-          "sha256": "36ef57e2885aeca696b4aabd3e2117879bbde64e3e1ff4d1593231181c7f1623",
-          "sha1": "c13d90384d062de854cebedf7ce44fed905cb22d",
-          "md5": "24df4f130790f57d0ccd1b887168aad7"
+          "name": "ResourcesOpt-1.0-test07.jar",
+          "url": "ResourcesOpt-1.0-test07.jar",
+          "size": 106859,
+          "sha512": "42f7e767a4d3b170d6954b81d7f9c44bdc530adb9f507df02afc0b222011d64a66727d97d25af4407210d6c6ddb34664c23c23d9afaa977a325be86af784a359",
+          "sha256": "6139f542cf331c7df6319546d186d5a8f53f1e978cf7c46b27d458b71fe9f54b",
+          "sha1": "ed594f33e198ec78189b2b32587bcd779bf4be09",
+          "md5": "eb17b4bd4f44276a91f1e599eb63407a"
         }
       ]
     },
@@ -96,13 +96,13 @@
       ],
       "files": [
         {
-          "name": "ResourcesOpt-1.0-test06.jar",
-          "url": "ResourcesOpt-1.0-test06.jar",
-          "size": 106863,
-          "sha512": "b1526de90c3ec23609be60ddcdeb6ad265b3a2a658d6d7cf3ce00085749c0cf3ece66229f6c512ab8a6b012ed2be86dafac979be3aed46c0ae2ca49e2f2a7138",
-          "sha256": "36ef57e2885aeca696b4aabd3e2117879bbde64e3e1ff4d1593231181c7f1623",
-          "sha1": "c13d90384d062de854cebedf7ce44fed905cb22d",
-          "md5": "24df4f130790f57d0ccd1b887168aad7"
+          "name": "ResourcesOpt-1.0-test07.jar",
+          "url": "ResourcesOpt-1.0-test07.jar",
+          "size": 106859,
+          "sha512": "42f7e767a4d3b170d6954b81d7f9c44bdc530adb9f507df02afc0b222011d64a66727d97d25af4407210d6c6ddb34664c23c23d9afaa977a325be86af784a359",
+          "sha256": "6139f542cf331c7df6319546d186d5a8f53f1e978cf7c46b27d458b71fe9f54b",
+          "sha1": "ed594f33e198ec78189b2b32587bcd779bf4be09",
+          "md5": "eb17b4bd4f44276a91f1e599eb63407a"
         }
       ]
     },
@@ -116,13 +116,13 @@
       },
       "files": [
         {
-          "name": "ResourcesOpt-1.0-test06-javadoc.jar",
-          "url": "ResourcesOpt-1.0-test06-javadoc.jar",
-          "size": 254176,
-          "sha512": "5fc40cc338b5a26c5002072baeb9ea2c43672a31d2b7af76b6810d60effef3cff2ebb1f759ce4ad6c8f8597b3977d70e54e16c663935d070d939f712a7dd9b1e",
-          "sha256": "e03f5cf3dd37d9f467528cdf740af1e79a159e2b1c3eb908f11a51db310f8302",
-          "sha1": "9b6d8681a46716359b28910f568ff379daa0c7fb",
-          "md5": "811db9125b657ec51c0a82bdc0cd1bfb"
+          "name": "ResourcesOpt-1.0-test07-javadoc.jar",
+          "url": "ResourcesOpt-1.0-test07-javadoc.jar",
+          "size": 254177,
+          "sha512": "d21e7d2545e0a1751a79b3940a21560e5c4d52a5ad6dcf6e67ad497d5717ac0654b349d1f74d229095da905e395b36e1ca70db5dbc81d48740a9d9527e85802e",
+          "sha256": "7b760e31d05bc2fb647a2b99528f7fdda2078985faefa5f4db91a0af0b351b65",
+          "sha1": "6dedc899725f8b2d55bf45fb5eb9b56ea0124bbe",
+          "md5": "4f7a4b6c495ebe61749b0ec42fb92de2"
         }
       ]
     },
@@ -136,13 +136,13 @@
       },
       "files": [
         {
-          "name": "ResourcesOpt-1.0-test06-sources.jar",
-          "url": "ResourcesOpt-1.0-test06-sources.jar",
-          "size": 58157,
-          "sha512": "beeacb8ad4f6ac0073b76c362d3344cc78852a9163c705f8a2c628b69c7737edc86d7d648893ec4077fd125ce81c2a26a1d3caed3574f0717753de7164204f26",
-          "sha256": "a0349c1f0c44ff623d4fdb61d40caa9aa9a88e75cb4d21e90ab190765574e90a",
-          "sha1": "d1bd8c58292136af4f8779cea9decae7a8b12d80",
-          "md5": "c7540a39122c10f322d008426d457595"
+          "name": "ResourcesOpt-1.0-test07-sources.jar",
+          "url": "ResourcesOpt-1.0-test07-sources.jar",
+          "size": 58216,
+          "sha512": "ac91fdeef81ddbc3d21cb0ed98177b479075271dbeb5ac9929141ccee28428a5a6eaa1eeb23267ae2b17f93d93e3d2525619693a7d42d481c4680fb9cf5748ae",
+          "sha256": "2b5b41c7791d60c09bb29e0541a704fe4b38c362ee15be8183f18507e137728b",
+          "sha1": "8ef2f507a62a3650a44172c7b1364a16fe0a1827",
+          "md5": "5b1a33fb87f108c1c9b8c917288de692"
         }
       ]
     }
