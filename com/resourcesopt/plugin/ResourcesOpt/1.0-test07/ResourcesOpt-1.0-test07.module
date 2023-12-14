@@ -38,11 +38,11 @@
         {
           "name": "ResourcesOpt-1.0-test07.jar",
           "url": "ResourcesOpt-1.0-test07.jar",
-          "size": 106859,
-          "sha512": "42f7e767a4d3b170d6954b81d7f9c44bdc530adb9f507df02afc0b222011d64a66727d97d25af4407210d6c6ddb34664c23c23d9afaa977a325be86af784a359",
-          "sha256": "6139f542cf331c7df6319546d186d5a8f53f1e978cf7c46b27d458b71fe9f54b",
-          "sha1": "ed594f33e198ec78189b2b32587bcd779bf4be09",
-          "md5": "eb17b4bd4f44276a91f1e599eb63407a"
+          "size": 106663,
+          "sha512": "9498cf113265c14871114bb516d09ccd60fb4d1cd14a0bf44816fb524ef71a3464a7abf859dab6e1a3b56abd6f66a2931157054461d69353e393ddd23a06150f",
+          "sha256": "69a8e04cefb73d72a6a5989517d1ed1bcd2cd4f009453a556e26d9b59c4b08ce",
+          "sha1": "41bb1178eae3fd4eb08a7305addf1d6e40fd5050",
+          "md5": "c7881488e52dc2325528e0f001b48b30"
         }
       ]
     },
@@ -98,11 +98,11 @@
         {
           "name": "ResourcesOpt-1.0-test07.jar",
           "url": "ResourcesOpt-1.0-test07.jar",
-          "size": 106859,
-          "sha512": "42f7e767a4d3b170d6954b81d7f9c44bdc530adb9f507df02afc0b222011d64a66727d97d25af4407210d6c6ddb34664c23c23d9afaa977a325be86af784a359",
-          "sha256": "6139f542cf331c7df6319546d186d5a8f53f1e978cf7c46b27d458b71fe9f54b",
-          "sha1": "ed594f33e198ec78189b2b32587bcd779bf4be09",
-          "md5": "eb17b4bd4f44276a91f1e599eb63407a"
+          "size": 106663,
+          "sha512": "9498cf113265c14871114bb516d09ccd60fb4d1cd14a0bf44816fb524ef71a3464a7abf859dab6e1a3b56abd6f66a2931157054461d69353e393ddd23a06150f",
+          "sha256": "69a8e04cefb73d72a6a5989517d1ed1bcd2cd4f009453a556e26d9b59c4b08ce",
+          "sha1": "41bb1178eae3fd4eb08a7305addf1d6e40fd5050",
+          "md5": "c7881488e52dc2325528e0f001b48b30"
         }
       ]
     },
@@ -119,10 +119,10 @@
           "name": "ResourcesOpt-1.0-test07-javadoc.jar",
           "url": "ResourcesOpt-1.0-test07-javadoc.jar",
           "size": 254177,
-          "sha512": "d21e7d2545e0a1751a79b3940a21560e5c4d52a5ad6dcf6e67ad497d5717ac0654b349d1f74d229095da905e395b36e1ca70db5dbc81d48740a9d9527e85802e",
-          "sha256": "7b760e31d05bc2fb647a2b99528f7fdda2078985faefa5f4db91a0af0b351b65",
-          "sha1": "6dedc899725f8b2d55bf45fb5eb9b56ea0124bbe",
-          "md5": "4f7a4b6c495ebe61749b0ec42fb92de2"
+          "sha512": "a4121a66a002dbb7dfc3004f3ea5bda615110624942f46271110add12511925c01881eb37d8bca2819056221b015bb25900b86f6453ef31a8401df069e265d54",
+          "sha256": "09606007f771b54cdb77cca0b7ed93c2699f6f57a855fa8248e9aef0dbc73f35",
+          "sha1": "9e6cb0b48fa2135ce7b112906ef09741b5f0e18f",
+          "md5": "a08938033e1ba32f0373785de66171cf"
         }
       ]
     },
@@ -138,11 +138,11 @@
         {
           "name": "ResourcesOpt-1.0-test07-sources.jar",
           "url": "ResourcesOpt-1.0-test07-sources.jar",
-          "size": 58216,
-          "sha512": "ac91fdeef81ddbc3d21cb0ed98177b479075271dbeb5ac9929141ccee28428a5a6eaa1eeb23267ae2b17f93d93e3d2525619693a7d42d481c4680fb9cf5748ae",
-          "sha256": "2b5b41c7791d60c09bb29e0541a704fe4b38c362ee15be8183f18507e137728b",
-          "sha1": "8ef2f507a62a3650a44172c7b1364a16fe0a1827",
-          "md5": "5b1a33fb87f108c1c9b8c917288de692"
+          "size": 58412,
+          "sha512": "b1bf76c2f293b9eba9623f340a3ced7b57bb0d28c7f096a673d74aec38617d56786de1e7d052b896dc612cd376beb3f3c0e94c4c26087cc0fa14c895f537c676",
+          "sha256": "7a6af7ab931a6fa3ac7c71274eca589e2996d3429398cb0b8ba5cf5486d4b400",
+          "sha1": "adafb800557bef45203c3a405d0e117809c61526",
+          "md5": "e8bb66f92ef97c43ba8c3c657adae896"
         }
       ]
     }
